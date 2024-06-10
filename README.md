@@ -10,6 +10,7 @@ Beat "Enemy Wizard" to win the game. He is the target/"Mark" of the enemy.
 
 
 TODO:
+
 UI is crappy. Will fix.
 
 Add InfoCheckingState to check units' skill and stats.
