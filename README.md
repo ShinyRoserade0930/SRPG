@@ -6,7 +6,8 @@ WASD or Arrows Keys to move the selection indicator. Mouse click to fire command
 
 Beat "Enemy Wizard" to win the game. He is the target/"Mark" of the enemy.
 
-![Screenshot](Screenshot.jpg?raw=true "Screenshot")
+![Screenshot](./Screenshot.jpg?raw=true "Screenshot")
+
 
 TODO:
 UI is crappy. Will fix.
